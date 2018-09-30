@@ -5,7 +5,7 @@ Section 1
 
 Section 2: 
 	Build IDE: IntelliJ IDEA 2017.1.6
-	JDK Version: java version "1.8.0_162"
+	JDK Version: java version "1.8.0_131"
 
 Section 3 
 ⦁	Sonar lint / EclEmma scan Snapshot 
